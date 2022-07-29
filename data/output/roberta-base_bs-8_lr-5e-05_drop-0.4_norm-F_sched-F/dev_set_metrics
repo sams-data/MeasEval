@@ -1,5 +1,0 @@
-,Quantity_precision,Quantity_recall,Quantity_f1-score,Quantity_support,MeasuredProperty_precision,MeasuredProperty_recall,MeasuredProperty_f1-score,MeasuredProperty_support,MeasuredEntity_precision,MeasuredEntity_recall,MeasuredEntity_f1-score,MeasuredEntity_support,Qualifier_precision,Qualifier_recall,Qualifier_f1-score,Qualifier_support,Unit_precision,Unit_recall,Unit_f1-score,Unit_support
-0,0.0,0.0,0.0,818,0.0,0.0,0.0,425,0.0,0.0,0.0,956,0.0,0.0,0.0,328,0.0,0.0,0.0,366
-1,0.0,0.0,0.0,818,0.0,0.0,0.0,425,0.0,0.0,0.0,956,0.0,0.0,0.0,328,0.0,0.0,0.0,366
-2,0.45790554414784396,0.5452322738386308,0.4977678571428572,818,0.0,0.0,0.0,425,0.0,0.0,0.0,956,0.0,0.0,0.0,328,0.0,0.0,0.0,366
-3,0.4731610337972167,0.8728606356968215,0.6136656639449936,818,0.0,0.0,0.0,425,0.3333333333333333,0.0041841004184100415,0.008264462809917354,956,0.0,0.0,0.0,328,0.0,0.0,0.0,366
